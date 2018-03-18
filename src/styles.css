@@ -1,0 +1,25 @@
+*{margin:0; padding:0;}
+				h1{
+				padding-bottom:3em;
+				text-align:center;
+				}
+				#calc{
+					padding:0;
+					text-align:center;
+					display:block;
+					width:15em;
+					margin:auto;
+				}
+				.btn{
+				padding:1.2em;
+				}
+				#ans{
+					
+					width:10em;
+					text-align:right;
+					border:0.1em solid black;
+					font-size:1.5em;
+				}
+				#equals{
+					width:15em;
+				}
