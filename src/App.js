@@ -63,9 +63,9 @@ class App extends Component {
 				<button class="btn" id="dot" onClick={() => this.inputDot()}>.</button>
 				<button class="btn" id="AC" onClick={() => this.inputAC()}>AC</button><br/>
 				<button class="btn" id="plus" onClick={() => this.inputOp(1)}>+</button>
-				<button class="btn" id="minus" onClick={() => this.inputOp(2)}>-</button>
+				<button class="btn" id="minus" onClick={() => this.inputOp(2)}>-</button><br/>
 				<button class="btn" id="divide" onClick={() => this.inputOp(4)}>/</button>
-				<button class="btn" id="times" onClick={() => this.inputOp(3)}>x</button>
+				<button class="btn" id="times" onClick={() => this.inputOp(3)}>x</button><br/>
 				<button class="btn" id="equals" onClick={() => this.inputEq()}>=</button>
 			</div>
 	</div>
